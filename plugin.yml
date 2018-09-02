@@ -1,0 +1,7 @@
+name: Trampolines
+Author: bobcatsss
+version: 1.0
+main: me.bobcatsss.trampolines.Core
+commands:
+   trampoline:
+      description: Main command to create a trampoline.
